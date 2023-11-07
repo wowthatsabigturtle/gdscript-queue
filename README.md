@@ -15,7 +15,7 @@ This is a linked list Queue implementation in GDScript. It also includes benchma
     ```
 2. Run it
     ```
-    godot -s Main.gd -v
+    $godot -s Main.gd -v
     ```
 
 Note that the benchmark for `simulated_search` might take a while for the 1,000,000 size.
