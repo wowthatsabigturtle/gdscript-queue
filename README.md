@@ -2,7 +2,7 @@
 
 ## What
 
-This is a linked list Queue implementation in GDScript. It also includes benchmarks of its performance versus a GDScript `Array` and `PoolVector2Array`. You can read more about this [here]().
+This is a linked list Queue implementation in GDScript. It also includes benchmarks of its performance versus a GDScript `Array` and `PoolVector2Array`. You can read more about this [here](https://blog.bigturtleworks.com/posts/gdscript-linked-list-queue-benchmarks/).
 
 ## Running
 
